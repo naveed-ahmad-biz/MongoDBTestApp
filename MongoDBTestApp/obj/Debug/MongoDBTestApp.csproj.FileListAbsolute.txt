@@ -1,0 +1,11 @@
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDBTestApp.exe.config
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDBTestApp.exe
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDBTestApp.pdb
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDB.Bson.dll
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDB.Driver.dll
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDB.Bson.xml
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\bin\Debug\MongoDB.Driver.xml
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\obj\Debug\MongoDBTestApp.csprojResolveAssemblyReference.cache
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\obj\Debug\MongoDBTestApp.exe
+c:\users\naveed\documents\visual studio 2015\Projects\MongoDBTestApp\MongoDBTestApp\obj\Debug\MongoDBTestApp.pdb
